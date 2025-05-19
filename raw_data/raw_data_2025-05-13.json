@@ -1,0 +1,246 @@
+{
+    "count": 8419,
+    "description": "Documents published from 01/01/2025 to 05/13/2025",
+    "total_pages": 50,
+    "next_page_url": "https://www.federalregister.gov/api/v1/documents?conditions%5Bpublication_date%5D%5Bgte%5D=2025-01-01&conditions%5Bpublication_date%5D%5Blte%5D=2025-05-13&format=json&order=newest&page=2&per_page=10",
+    "results": [
+        {
+            "title": "Victory Day for World War II, 2025",
+            "type": "Presidential Document",
+            "abstract": null,
+            "document_number": "2025-08488",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08488/victory-day-for-world-war-ii-2025",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08488.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08488.pdf?1746803708",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+                    "name": "Executive Office of the President",
+                    "id": 538,
+                    "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+                    "parent_id": null,
+                    "slug": "executive-office-of-the-president"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "National Foster Care Month, 2025",
+            "type": "Presidential Document",
+            "abstract": null,
+            "document_number": "2025-08487",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08487/national-foster-care-month-2025",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08487.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08487.pdf?1746803707",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "EXECUTIVE OFFICE OF THE PRESIDENT",
+                    "name": "Executive Office of the President",
+                    "id": 538,
+                    "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+                    "parent_id": null,
+                    "slug": "executive-office-of-the-president"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Sunshine Act Meetings",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08427",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08427/sunshine-act-meetings",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08427.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08427.pdf?1746735321",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+                    "name": "Securities and Exchange Commission",
+                    "id": 466,
+                    "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+                    "parent_id": null,
+                    "slug": "securities-and-exchange-commission"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Sunshine Act Meeting",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08401",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08401/sunshine-act-meeting",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08401.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08401.pdf?1746735321",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "COMMISSION ON CIVIL RIGHTS",
+                    "name": "Civil Rights Commission",
+                    "id": 52,
+                    "url": "https://www.federalregister.gov/agencies/civil-rights-commission",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/52",
+                    "parent_id": null,
+                    "slug": "civil-rights-commission"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Sunshine Act Meeting",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08378",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08378/sunshine-act-meeting",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08378.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08378.pdf?1746735320",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "DEPARTMENT OF JUSTICE",
+                    "name": "Justice Department",
+                    "id": 268,
+                    "url": "https://www.federalregister.gov/agencies/justice-department",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+                    "parent_id": null,
+                    "slug": "justice-department"
+                },
+                {
+                    "raw_name": "Parole Commission",
+                    "name": "Parole Commission",
+                    "id": 401,
+                    "url": "https://www.federalregister.gov/agencies/parole-commission",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/401",
+                    "parent_id": 268,
+                    "slug": "parole-commission"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Sunshine Act Meetings",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08350",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08350/sunshine-act-meetings",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08350.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08350.pdf?1746717310",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "LEGAL SERVICES CORPORATION",
+                    "name": "Legal Services Corporation",
+                    "id": 276,
+                    "url": "https://www.federalregister.gov/agencies/legal-services-corporation",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/276",
+                    "parent_id": null,
+                    "slug": "legal-services-corporation"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Investment Company Act Release No.35578; File No. 812-15757 Varagon Capital Corporation, et al.",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08324",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08324/investment-company-act-release-no35578-file-no-812-15757-varagon-capital-corporation-et-al",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08324.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08324.pdf?1746794727",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+                    "name": "Securities and Exchange Commission",
+                    "id": 466,
+                    "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+                    "parent_id": null,
+                    "slug": "securities-and-exchange-commission"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Adams Street Private Equity Navigator Fund LLC and Adams Street Advisors, LLC",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08323",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08323/adams-street-private-equity-navigator-fund-llc-and-adams-street-advisors-llc",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08323.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08323.pdf?1746794727",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+                    "name": "Securities and Exchange Commission",
+                    "id": 466,
+                    "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+                    "parent_id": null,
+                    "slug": "securities-and-exchange-commission"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Morgan Stanley Direct Lending Fund, et al.",
+            "type": "Notice",
+            "abstract": null,
+            "document_number": "2025-08322",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08322/morgan-stanley-direct-lending-fund-et-al",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08322.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08322.pdf?1746794727",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+                    "name": "Securities and Exchange Commission",
+                    "id": 466,
+                    "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+                    "parent_id": null,
+                    "slug": "securities-and-exchange-commission"
+                }
+            ],
+            "excerpts": null
+        },
+        {
+            "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+            "type": "Notice",
+            "abstract": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of information, and to allow a second opportunity for public comment on the notice. Interested persons are invited to send comments regarding the burden estimate or any other aspect of this collection of information, including the necessity and utility of the proposed information collection for the proper performance of the agency's functions, the accuracy of the estimated burden, ways to enhance the quality, utility, and clarity of the information to be collected, and the use of automated collection techniques or other forms of information technology to minimize the information collection burden.",
+            "document_number": "2025-08307",
+            "html_url": "https://www.federalregister.gov/documents/2025/05/12/2025-08307/agency-information-collection-activities-submission-for-omb-review-comment-request",
+            "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08307.pdf",
+            "public_inspection_pdf_url": "https://public-inspection.federalregister.gov/2025-08307.pdf?1746794727",
+            "publication_date": "2025-05-12",
+            "agencies": [
+                {
+                    "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+                    "name": "Health and Human Services Department",
+                    "id": 221,
+                    "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+                    "parent_id": null,
+                    "slug": "health-and-human-services-department"
+                },
+                {
+                    "raw_name": "Centers for Medicare & Medicaid Services",
+                    "name": "Centers for Medicare & Medicaid Services",
+                    "id": 45,
+                    "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+                    "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+                    "parent_id": 221,
+                    "slug": "centers-for-medicare-medicaid-services"
+                }
+            ],
+            "excerpts": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to..."
+        }
+    ]
+}
