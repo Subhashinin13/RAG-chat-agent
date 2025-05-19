@@ -45,8 +45,10 @@ This project builds a local Retrieval-Augmented Generation (RAG) chat system tha
    
    Step 1: Test Ollama LLM
          python test_ollama.py
+   
    Step 2: Test Query + LLM Agent Logic
           python source.py
+   
    Step 3: Start FastAPI Backend
            uvicorn fast_api:app --reload
     Step 4: Launch Streamlit Web UI
