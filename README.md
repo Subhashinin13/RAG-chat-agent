@@ -51,6 +51,7 @@ This project builds a local Retrieval-Augmented Generation (RAG) chat system tha
    
    Step 3: Start FastAPI Backend
            uvicorn fast_api:app --reload
+   
     Step 4: Launch Streamlit Web UI
            streamlit run chat_ui.py
 
