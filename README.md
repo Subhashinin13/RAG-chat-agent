@@ -41,6 +41,8 @@ This project builds a local Retrieval-Augmented Generation (RAG) chat system tha
                   python insert_data_to_mysql.py
 
    ( --------------------- Run the System ---------------- )
+
+   
    Step 1: Test Ollama LLM
          python test_ollama.py
    Step 2: Test Query + LLM Agent Logic
